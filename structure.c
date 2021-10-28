@@ -1,3 +1,4 @@
+#include<stdio.h>
 struct employee
 {
     int id,age,salary;
